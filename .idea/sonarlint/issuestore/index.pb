@@ -9,3 +9,5 @@ P
  contracts/eco-certification.clar,c/a/ca1255fd23fd62c8729cfa1636e156bd8a2577cb
 O
 tests/eco-certification.test.ts,b/f/bfe6370b3b1b774467f8dd0a35e2208ee8c01190
+R
+"contracts/reward-distribution.clar,6/1/61978ba00cf6cea1f7b879af5cac1fb25543666d
