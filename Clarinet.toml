@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/reward-distribution.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.sustainable-experience-nft]
+path = 'contracts/sustainable-experience-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
